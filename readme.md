@@ -5,3 +5,6 @@ This project is an API challenge that showcases advanced JavaScript concepts. It
 
 ## API Used
 https://jsonplaceholder.typicode.com/
+
+## Demo
+https://diaasalman.github.io/Mini-Social-Media-Website/
