@@ -41,8 +41,7 @@ function getUsers() {
           this.classList.add('active')
 
           // Fetch posts of the clicked user
-          const userId = this.getAttribute('data-user-id')
-          getUserPosts(userId)
+          getUserPosts(idx + 1)
         })
       })
     } else {
